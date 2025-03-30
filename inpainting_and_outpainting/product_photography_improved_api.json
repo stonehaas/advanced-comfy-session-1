@@ -133,7 +133,7 @@
     },
     "20": {
         "inputs": {
-            "seed": 654689829781574,
+            "seed": 293033296361556,
             "steps": 20,
             "cfg": 8,
             "sampler_name": "euler",
@@ -359,7 +359,7 @@
     },
     "35": {
         "inputs": {
-            "seed": 786506531041769,
+            "seed": 947669998616035,
             "steps": 40,
             "cfg": 2,
             "sampler_name": "dpmpp_2m_sde",
@@ -788,7 +788,7 @@
     },
     "66": {
         "inputs": {
-            "default_value": "",
+            "default_value": "luggage in a hotel room",
             "label": "Background Prompt"
         },
         "class_type": "FSLoadText",
